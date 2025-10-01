@@ -30,4 +30,4 @@ This portfolio is designed to highlight:
 - **JavaScript** – Interactivity and animations  
 
 ---
-![Portfolio Preview]()
+![Portfolio Preview](https://github.com/Hritik1105/portfolio/blob/main/Hritik-Portfolio/preview.png)
