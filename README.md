@@ -30,3 +30,4 @@ This portfolio is designed to highlight:
 - **JavaScript** – Interactivity and animations  
 
 ---
+![Portfolio Preview]()
