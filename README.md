@@ -1,3 +1,10 @@
+
+
+![Portfolio Preview](https://github.com/Hritik1105/portfolio/blob/main/Hritik-Portfolio/preview.png)
+
+
+
+
 # 🌟 My Portfolio
 
 Welcome to my **Personal Portfolio Website**!  
@@ -30,4 +37,4 @@ This portfolio is designed to highlight:
 - **JavaScript** – Interactivity and animations  
 
 ---
-![Portfolio Preview](https://github.com/Hritik1105/portfolio/blob/main/Hritik-Portfolio/preview.png)
+
